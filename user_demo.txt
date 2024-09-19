@@ -30,6 +30,8 @@ CCTV-6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV-6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
 CCTV-6,http://1b6467f415.iok.la:9931/tsfile/live/1026_1.m3u8
 CCTV-6,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV-7,http://113.57.109.48:1111/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV-8,http://111.14.181.15:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,http://58.17.48.228:808/hls/25/index.m3u8
 CCTV-8,http://1b6467f415.iok.la:9931/tsfile/live/1028_1.m3u8
@@ -40,13 +42,12 @@ CCTV-8,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV-9,http://1.195.111.251:11190/tsfile/live/0009_1.m3u8
 CCTV-9,http://113.57.109.48:1111/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV-7,http://113.57.109.48:1111/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV-10,http://113.57.109.48:1111/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 CCTV-11,http://1.195.111.251:11190/tsfile/live/0011_1.m3u8
 CCTV-11,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV-12,http://113.57.109.48:1111/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 CCTV-13,http://113.57.109.48:1111/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://117.27.190.42:9998/tsfile/live/23244_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
@@ -57,10 +58,9 @@ CCTV-15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 CCTV-16,http://113.57.109.48:1111/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17,http://113.57.109.48:1111/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV-4K,http://159.75.85.63:8654/telegram@feiyangdigital-gudou-cctv4k.m3u8
 CCTV-4K,http://159.75.85.63:8654/telegram@feiyangdigital-ysp-cctv4k.m3u8
-CCTV-12,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 地方卫视,#genre#
 海南卫视,http://113.57.109.48:1111/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -70,18 +70,16 @@ CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 贵州卫视,http://113.57.109.48:1111/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://113.57.109.48:1111/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 延边卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
-三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
-安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
 青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 东南卫视,http://113.57.109.48:1111/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://113.57.109.48:1111/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://113.57.109.48:1111/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -126,7 +124,7 @@ CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 黑龙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 吉林卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 云南卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8
-三沙卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
+
 
 影视频道,#genre#
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
@@ -174,4 +172,17 @@ CHC高清电影,http://113.57.109.48:1111/tsfile/live/1046_1.m3u8?key=txiptv&pla
 精品大剧,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 东方影视,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
 
-
+动画频道,#genre#
+卡酷少儿,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+金鹰卡通,http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
+优漫卡通,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
+哈哈炫动,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+动漫秀场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
+嘉佳卡通,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000025964/1.m3u8
+倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+雲朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
+反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
+狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
+猪侠英雄,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
