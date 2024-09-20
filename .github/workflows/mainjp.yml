@@ -57,8 +57,8 @@ jobs:
           if [[ -f "$final_file" ]]; then
             git add "$final_file"
           fi
-          if [[ -f user_result.log ]]; then
-            git add user_result.log
+          if [[ -f jp_result.log ]]; then
+            git add jp_result.log
           elif [[ -f result.log ]]; then
             git add result.log
           fi
