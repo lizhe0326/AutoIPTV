@@ -14,7 +14,12 @@
 - 分页结果获取（可配置页数、接口数量）
 - 保证更新时效性，配置获取最近时间范围内更新的接口
 - 可过滤 ipv4、ipv6 接口
-
+- result.txt 为更新后的直播源接口文件，source.json 为数据源文件（目前仅作分享使用）
+- https://mirror.ghproxy.com/raw.githubusercontent.com/您的github用户名/仓库名称（对应上述Fork创建时的TV）/master/output/user_result.txt
+![用户名与仓库名称](./images/rep-info.png '用户名与仓库名称')
+- https://mirror.ghproxy.com/raw.githubusercontent.com/您的github用户名/仓库名称（对应上述Fork创建时的TV）/master/output/source.json
+![用户名与仓库名称](./images/rep-info.png '用户名与仓库名称')
+   
 ## 配置
 
 | 配置项               | 默认值             | 描述                                                               |
